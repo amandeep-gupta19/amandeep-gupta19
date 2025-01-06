@@ -1,18 +1,18 @@
 # 💼 **Amandeep Gupta | Software Engineer**  
 **Building Scalable and User-Centric Applications**  
 
----
+##
 
 ![Banner](https://github.com/amandeep-gupta19/amandeep-gupta19/blob/main/DDD.png)  
 
----
+##
 
 <img align="right" src="https://github.com/amandeep-gupta19/amandeep-gupta19/blob/main/coding-animation.gif" alt="coding" width="300"/>  
 
 - 🌐 **Portfolio**: [amandeep.com](https://amandeep.com)  
 - 📩 **Reach Me**: **adgdesign98@gmail.com**  
 
----
+##
 
 ## 🔗 **Connect With Me**  
 <p align="left">  
@@ -21,16 +21,15 @@
   </a>  
 </p>  
 
----
+##
 
 ## 🛠️ **Languages and Tools**  
 <p align="left">  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="filter: invert(1);"/></a>  
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="filter: invert(1);"/></a>  
-  <a href="https://www.chartjs.org/" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50"/></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>  
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" style="filter: invert(1);"/></a>  
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50" style="filter: invert(1);"/></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/></a>  
   <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50"/></a>  
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="filter: invert(1);"/></a>  
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" style="filter: invert(1);"/></a>  
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>  
   <a href="https://www.firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/></a>  
   <a href="https://www.framer.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="50" height="50"/></a>  
@@ -50,7 +49,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>  
 </p>
 
----
+##
 
 ## 📊 **GitHub Stats**  
 <p align="center">
@@ -59,14 +58,14 @@
     alt="Top Languages" width="45%" style="display:inline-block; margin-left: 10px;"/>
 </p>  
 
----
+##
 
 ## 🚀 **About Me**  
 - 🔥 Software Engineer specializing in scalable, user-centric applications.  
 - 💻 Over 6 years of experience in design, transitioning to full-stack development.  
 - 🌱 currently learning about machine learning (ML) and artificial intelligence (AI).
 
----
+##
 
 ## 🎨 **Design Portfolio**  
 Check out my logo and branding work: [Logo2Fly](https://www.instagram.com/indian_logo__designer_/)
