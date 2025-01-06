@@ -9,8 +9,8 @@
 
 <img align="right" src="https://github.com/amandeep-gupta19/amandeep-gupta19/blob/main/coding-animation.gif" alt="coding" width="300"/>  
 
-- 🌐 **Portfolio**: [amandeep.com](https://amandeep.com)  
-- 📩 **Reach Me**: **adgdesign98@gmail.com**  
+ 🌐 **Portfolio**: [amandeep.com](https://amandeep.com)  
+📩 **Reach Me**: **adgdesign98@gmail.com**  
 
 ##
 
