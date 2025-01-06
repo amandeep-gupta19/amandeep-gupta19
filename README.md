@@ -62,7 +62,8 @@
 
 ##
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats** 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amandeep-gupta19&show_icons=true&locale=en&theme=gold&border_radius=5" alt="GitHub Stats" width="45%" style="display:inline-block; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandeep-gupta19&show_icons=true&locale=en&layout=compact&theme=gold&hide=html,css,other&langs_count=2" 
