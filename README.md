@@ -57,6 +57,8 @@
    <a href="https://www.vercel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel alt="vercel" width="50" height="50"/></a> 
   <a href="https://www.vscode.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode alt="vscode" width="50" height="50"/></a> 
   <a href="https://www.vite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vite alt="vite" width="50" height="50"/></a> 
+  <a href="https://www.vite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python alt="vite" width="50" height="50"/></a>
+  <a href="https://www.vite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm alt="vite" width="50" height="50"/></a>
 </p>
 </p>
 
